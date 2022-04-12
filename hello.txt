@@ -1,5 +1,6 @@
 Hello World..!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello Crest Data Systemthis is new line 1
 this is new line 2
 this is new line 3
@@ -10,3 +11,6 @@ Hello Crest Data System
 
 Hello Crest Data System
 >>>>>>> f60d82e (Third commit)
+=======
+Hello Crest Data System
+>>>>>>> 328d9e9 (Revert "Third commit")
